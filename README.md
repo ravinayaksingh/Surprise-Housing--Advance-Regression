@@ -1,6 +1,6 @@
 # Surprise Housing- Advance Regression
-> - This model will then be used by the management to understand how exactly the prices vary with the variables. 
--   They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.
+> - This model will then be used by the management to understand how exactly the prices vary with the variables.
+> - They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.
 
 
 ## Table of Contents
@@ -24,9 +24,8 @@
     * We are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not
 
 - What is the business probem that your project is trying to solve?
-* The company wants to know:
-- Which variables are significant in predicting the price of a house, and
-- How well those variables describe the price of a house.
+  * The company wants to know: Which variables are significant in predicting the price of a house, and How well those variables describe the price of a house.
+
 - What is the dataset that is being used?
 * The data is provided in the CSV file
 
